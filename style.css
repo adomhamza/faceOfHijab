@@ -68,6 +68,10 @@ body {
     margin: auto;
         
   }
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
   
   /* Caption text */
   .text {
