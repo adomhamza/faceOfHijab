@@ -40,10 +40,14 @@ body {
   color: white;
 }
 
-.header-center .header-tabs{
+.header-center {
   text-align: center;
   font-size: 1vw;
   
+}
+.header-tabs{
+  float: right;
+  align-items: center;
 }
 
 
