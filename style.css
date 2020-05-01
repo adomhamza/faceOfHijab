@@ -40,14 +40,13 @@ body {
   color: white;
 }
 
-.header-center{
+.header-center .header-tabs{
   text-align: center;
   font-size: 1vw;
+  
 }
 
-.header-right {
-  float: right;
-}
+
 /* Above is CSS for top navbar*/
  @media screen and (max-width: 500px) {
   .header a {
@@ -69,7 +68,7 @@ body {
 /* Slideshow container */
 .slideshow-container {
  
-   
+   border-radius: 1%;
     position: relative;
     margin: auto;
         
@@ -110,9 +109,7 @@ body {
     transition: background-color 0.6s ease;
   }
   
-  .active {
-    background-color: #717171;
-  }
+  
   
   /* Fading animation */
   .fade {
