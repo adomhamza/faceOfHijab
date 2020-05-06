@@ -6,7 +6,7 @@ body {
   background-color: rgba(229, 239, 240, 0.007);
   padding: 20px;
 }
-/* Above is CSS for top navbar*/
+/* CSS for top navbar*/
 .header {
   overflow: hidden;
   background-color: whitesmoke;
@@ -73,7 +73,7 @@ body {
   }
 }
 /* Slideshow container */
-.slideshow-container {
+ .slideshow-container {
    border: 1px solid black;
    background-color: black;   
     position: relative;
@@ -142,7 +142,7 @@ body {
   */
   /* Create two unequal columns that floats next to each other */
 /* Left column */
-.leftcolumn {   
+ .leftcolumn {   
     float: left;
     width: 75%;
   }
