@@ -6,7 +6,7 @@ body {
   background-color: rgba(229, 239, 240, 0.007);
   padding: 20px;
 }
-
+/* Above is CSS for top navbar*/
 .header {
   overflow: hidden;
   background-color: whitesmoke;
@@ -54,8 +54,8 @@ body {
 }
 
 
-/* Above is CSS for top navbar*/
- @media screen and (max-width: 500px) {
+
+@media screen and (max-width: 500px) {
   .header a {
     float: none;
     display: block;
